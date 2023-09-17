@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Mark Grading 6\Mark Grading 6\Source.cpp(17,12): warning C4101: 'k': unreferenced local variable
+C:\Users\User\source\repos\Mark Grading 6\Mark Grading 6\Source.cpp(17,15): warning C4101: 'l': unreferenced local variable
+  Mark Grading 6.vcxproj -> C:\Users\User\source\repos\Mark Grading 6\Debug\Mark Grading 6.exe

@@ -1,0 +1,7 @@
+﻿  FunctionTemplate.cpp
+E:\Microsoft Visual Projects\Function Templates\Function Templates\FunctionTemplate.cpp(16,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Function Templates.vcxproj -> E:\Microsoft Visual Projects\Function Templates\x64\Debug\Function Templates.exe

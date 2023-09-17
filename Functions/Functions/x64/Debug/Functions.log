@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Microsoft Visual Projects\Functions\Functions\Source.cpp(9,8): warning C4101: 'x': unreferenced local variable
+  Functions.vcxproj -> E:\Microsoft Visual Projects\Functions\x64\Debug\Functions.exe
